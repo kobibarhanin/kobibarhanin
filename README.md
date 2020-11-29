@@ -22,9 +22,7 @@ You can find me on [![LinkedIn][2]][1].
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kobibarhanin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kobi's GitHub Stats" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobibarhanin&repo=igit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobibarhanin&repo=strix&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobibarhanin&repo=igit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 
 <!-- links -->
