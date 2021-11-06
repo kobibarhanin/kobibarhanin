@@ -1,7 +1,7 @@
 # Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Backend Developer @ [Lemonade][3].\
-#OpenSource#Crypto#DevTools#Dogs [![LinkedIn][2]][1].
+Backend Developer.\
+#OpenSource#Crypto#DevTools#Dogs.
 
 
 ## ⚙️ Stack
